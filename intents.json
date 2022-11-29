@@ -1,0 +1,21 @@
+{"intents": [
+    {"tag": "greeting",
+     "patterns": ["Hi there!!", "How are you?", "Is anyone there?",
+                    "Hey","Hola", "Hello"],
+     "responses": ["Hello!!, thanks for asking.", "Good to see you again.", 
+                    "Hi there, how can I help?"]
+    },
+    {"tag": "goodbye",
+     "patterns": ["Bye", "See you later", "Goodbye", "Nice chatting to you, bye", 
+                  "Till next time","hey what are you doing"],
+     "responses": ["See you!", "Have a nice day", "Bye! Come back again soon.","Good day","Hi how are you"]             
+    },
+
+    {"tag": "Thanku",
+     "patterns": ["Hello how are you"],
+     "responses": ["You Are Welcome To This Chatbot"]             
+    }
+  ]
+}
+
+    
